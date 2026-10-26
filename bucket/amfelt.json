@@ -1,0 +1,16 @@
+{
+    "version": "5.2.1",
+    "description": "Agent that runs Amfelt data pipelines on your own infrastructure",
+    "homepage": "https://amfelt.com",
+    "license": {
+        "identifier": "Proprietary",
+        "url": "https://releases.amfelt.com/LICENSE-BINARY"
+    },
+    "architecture": {
+        "64bit": {
+            "url": "https://releases.amfelt.com/cli/v5.2.1/amfelt_Windows_x86_64.zip",
+            "hash": "2768165d3485dbf185770e9d49ef7e557b38b3b5ce8e4728b680179b33f5c761"
+        }
+    },
+    "bin": "amfelt.exe"
+}
